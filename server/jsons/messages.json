@@ -1,0 +1,145 @@
+{
+    "m": "All messages",
+    "data": [
+        {
+            "id": 1,
+            "content": "I think Python is the best language!",
+            "date": "2023-08-08T22:00:00.000Z",
+            "id_user": 1,
+            "id_thread": 1
+        },
+        {
+            "id": 2,
+            "content": "Have you heard about the new space findings?",
+            "date": "2023-08-07T22:00:00.000Z",
+            "id_user": 2,
+            "id_thread": 2
+        },
+        {
+            "id": 3,
+            "content": "Die Hard is my all-time favorite!",
+            "date": "2023-08-06T22:00:00.000Z",
+            "id_user": 3,
+            "id_thread": 3
+        },
+        {
+            "id": 4,
+            "content": "Machu Picchu is on my travel bucket list.",
+            "date": "2023-08-05T22:00:00.000Z",
+            "id_user": 4,
+            "id_thread": 4
+        },
+        {
+            "id": 5,
+            "content": "I agree, Python is versatile!",
+            "date": "2023-08-08T22:00:00.000Z",
+            "id_user": 2,
+            "id_thread": 1
+        },
+        {
+            "id": 6,
+            "content": "But Java has great performance.",
+            "date": "2023-08-08T22:00:00.000Z",
+            "id_user": 1,
+            "id_thread": 1
+        },
+        {
+            "id": 7,
+            "content": "JavaScript is essential for web dev.",
+            "date": "2023-08-08T22:00:00.000Z",
+            "id_user": 3,
+            "id_thread": 1
+        },
+        {
+            "id": 8,
+            "content": "Ruby is elegant and easy to read.",
+            "date": "2023-08-08T22:00:00.000Z",
+            "id_user": 4,
+            "id_thread": 1
+        },
+        {
+            "id": 9,
+            "content": "The black hole discovery was amazing!",
+            "date": "2023-08-07T22:00:00.000Z",
+            "id_user": 1,
+            "id_thread": 2
+        },
+        {
+            "id": 10,
+            "content": "Im excited about the Mars mission.",
+            "date": "2023-08-07T22:00:00.000Z",
+            "id_user": 3,
+            "id_thread": 2
+        },
+        {
+            "id": 11,
+            "content": "The new medical breakthrough is promising.",
+            "date": "2023-08-07T22:00:00.000Z",
+            "id_user": 4,
+            "id_thread": 2
+        },
+        {
+            "id": 12,
+            "content": "Science never fails to amaze us!",
+            "date": "2023-08-07T22:00:00.000Z",
+            "id_user": 2,
+            "id_thread": 2
+        },
+        {
+            "id": 13,
+            "content": "Die Hard is a classic for sure.",
+            "date": "2023-08-06T22:00:00.000Z",
+            "id_user": 1,
+            "id_thread": 3
+        },
+        {
+            "id": 14,
+            "content": "Mission Impossible series is fantastic!",
+            "date": "2023-08-06T22:00:00.000Z",
+            "id_user": 2,
+            "id_thread": 3
+        },
+        {
+            "id": 15,
+            "content": "John Wick movies have intense action.",
+            "date": "2023-08-06T22:00:00.000Z",
+            "id_user": 3,
+            "id_thread": 3
+        },
+        {
+            "id": 16,
+            "content": "Mad Max: Fury Road is a visual spectacle.",
+            "date": "2023-08-06T22:00:00.000Z",
+            "id_user": 4,
+            "id_thread": 3
+        },
+        {
+            "id": 17,
+            "content": "Santorini, Greece is breathtaking.",
+            "date": "2023-08-05T22:00:00.000Z",
+            "id_user": 2,
+            "id_thread": 4
+        },
+        {
+            "id": 18,
+            "content": "I dream of visiting Kyoto, Japan.",
+            "date": "2023-08-05T22:00:00.000Z",
+            "id_user": 1,
+            "id_thread": 4
+        },
+        {
+            "id": 19,
+            "content": "African safari would be a unique experience.",
+            "date": "2023-08-05T22:00:00.000Z",
+            "id_user": 3,
+            "id_thread": 4
+        },
+        {
+            "id": 20,
+            "content": "New Zealand for its stunning landscapes!",
+            "date": "2023-08-05T22:00:00.000Z",
+            "id_user": 4,
+            "id_thread": 4
+        }
+    ]
+}

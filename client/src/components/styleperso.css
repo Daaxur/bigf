@@ -1,0 +1,84 @@
+/* Appliquer un fond gris clair à toutes les pages */
+body {
+    background-color: rgb(72, 71, 71);
+  }
+  
+  /* Rendre toutes les écritures violettes */
+  body, p, h1, h2, h3, h4, h5, h6, span, a {
+    color: rgb(83, 204, 225);
+  }
+  
+  /* Style pour les boutons */
+  button {
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px 20px;
+    background-color: rgb(72, 71, 71);
+    color: rgb(83, 204, 225);
+    transition: border-color 0.3s, color 0.3s;
+  }
+  
+  /* Changement de style au survol des boutons */
+  button:hover {
+    border-color: rgb(83, 204, 225);
+    color: black;
+  }
+
+  /* Css de la page loginjs*/
+  .center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .center-content {
+    text-align: center;
+    border: 1px solid rgb(83, 204, 225);
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(72, 71, 71);
+    box-shadow: 0px 0px 10px rgb(38, 116, 129);
+  }
+  
+  /* navbar */
+
+.navbar-frame {
+  border: 1px solid rgb(83, 204, 225);
+  padding: 10px;
+  background-color: rgb(72, 71, 71);
+  box-shadow: 0px 0px 10px rgb(38, 116, 129);
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar-logo img {
+  width: 50px;
+  height: 50px;
+}
+
+.navbar-items {
+  display: flex;
+  gap: 10px;
+}
+
+.navbar-item {
+  background-color: rgb(72, 71, 71);
+  color: rgb(83, 204, 225);
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.navbar-item:hover {
+  background-color: rgb(72, 71, 71);
+}
+
+/* Add more styling as needed */
+

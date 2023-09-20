@@ -1,0 +1,33 @@
+{
+    "m": "All threads",
+    "data": [
+        {
+            "id": 1,
+            "content": "Best Programming Languages",
+            "date": "2023-08-08T22:00:00.000Z",
+            "id_user": 1,
+            "id_topic": 1
+        },
+        {
+            "id": 2,
+            "content": "Latest Discoveries",
+            "date": "2023-08-07T22:00:00.000Z",
+            "id_user": 2,
+            "id_topic": 2
+        },
+        {
+            "id": 3,
+            "content": "Favorite Action Movies",
+            "date": "2023-08-06T22:00:00.000Z",
+            "id_user": 3,
+            "id_topic": 3
+        },
+        {
+            "id": 4,
+            "content": "Bucket List Destinations",
+            "date": "2023-08-05T22:00:00.000Z",
+            "id_user": 4,
+            "id_topic": 4
+        }
+    ]
+}

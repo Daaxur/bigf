@@ -1,0 +1,32 @@
+version: '3'
+
+services:
+  mysql:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: "root"
+      MYSQL_DATABASE: "bigf"
+    ports:
+      - '3306:3306'
+    volumes:
+      - ./database:/docker-entrypoint-initdb.d/
+
+  server:
+    build: 
+      context: .
+      dockerfile: Dockerfile.server
+    volumes:
+      - ./server:/app
+    ports:
+      - '80:80'
+    links:
+      - mysql
+
+  client:
+    build: 
+      context: .
+      dockerfile: Dockerfile.client
+    volumes:
+      - ./client:/app
+    ports:
+      - '3000:3000'
